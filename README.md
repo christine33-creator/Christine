@@ -1,8 +1,8 @@
 ## Hey there :wave:
 
-- First fact
-- Secondfact
-- third fact
+- 2x Software Engineer Intern @ Microsoft
+- Focus on cloud, backend development
+- Fun fact: TBD
 
 ![Static Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)                 ![Static Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
